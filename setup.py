@@ -5,7 +5,7 @@ with open('README.rst') as f:
 
 setup(
     name='labelord_IgorRosocha',
-    version='0.5.1',
+    version='0.5.2',
     description='Management of GitHub labels.',
     long_description=long_description,
     author='Igor Rosocha',
