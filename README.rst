@@ -45,8 +45,8 @@ You can also build the documentation locally. Just follow these steps:
 2. Navigate to **docs** directory
 3. Run ``python -m pip install -r requirements.txt``
 4. Run ``pip install sphinx-click``
-4. Run ``make html`` and ``make doctest``
-5. You can find all of the .html files in _build/html directory
+5. Run ``make html`` and ``make doctest``
+6. You can find all of the .html files in _build/html directory
 	
 
 License
