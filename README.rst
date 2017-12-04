@@ -41,7 +41,7 @@ For the full documentation, please visit `Readthedocs.io <http://labelord-igorro
 
 You can also build the documentation locally. Just follow these steps:
 
-1. Download **labelord**
+1. Download **labelord** and install it (in labelord directory: ``python setup.py install``)
 2. Navigate to **docs** directory
 3. Run ``python -m pip install -r requirements.txt``
 4. Run ``pip install sphinx-click``
